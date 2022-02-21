@@ -1,4 +1,3 @@
 Learn Programming
 Learn Networking
 Learn Security
-Learn Design
